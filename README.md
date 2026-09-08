@@ -130,6 +130,7 @@ I'm especially interested in opportunities where I can work on **real-world soft
 | **CPU Scheduling Visualizer**         | Interactive visualization of CPU scheduling algorithms with execution tracking | React, TypeScript, Zustand, Tailwind | [Live Project](https://cpu-scheduling-visualizer-cpu-sched.vercel.app/)   |
 | **Full-Stack Portfolio**              | Personal portfolio showcasing projects, skills and technical experience        | React, Next.js, Tailwind, Node.js    | [Live Project](https://modern-portfolio-ten-nu.vercel.app/)               |
 | **Competitive Programming Solutions** | Collection of DSA and competitive programming solutions                        | C++                                  | [LeetCode](https://leetcode.com/u/addicted_coder/)                        |
+| **Sign Language Translator- SignBridge** | sign language translator based on the American sign language                | Node.js ,React,Typescript,Fast API,python| [Repository](https://sign-bridge-ai-eight.vercel.app/)                |
 
 ---
 
