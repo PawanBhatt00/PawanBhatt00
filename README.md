@@ -136,7 +136,7 @@ I'm especially interested in opportunities where I can work on **real-world soft
 ## 📚 Currently Learning
 
 ```text
-2026 Learning Path
+Current Learning Path
 
 ✅ Advanced DSA & Competitive Programming
 ✅ React + TypeScript
